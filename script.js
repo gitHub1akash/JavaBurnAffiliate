@@ -12,27 +12,27 @@ const reviews = [
     {
         text: "Java Burn has been a game-changer for me. I've lost 10 pounds in the last month without changing my diet or exercise routine.",
         author: "John Doe",
-        image: "https://via.placeholder.com/100"
-    },
-    {
-        text: "I love how easy it is to use Java Burn with my morning coffee. It gives me energy and keeps me feeling full all day.",
-        author: "Jane Smith",
-        image: "https://via.placeholder.com/100"
-    },
-    {
-        text: "I've tried many weight loss supplements, but Java Burn is the only one that actually worked for me. Highly recommend!",
-        author: "Alice Johnson",
-        image: "https://via.placeholder.com/100"
+        image: "./img/customers/JohnDoe.jpg"
     },
     {
         text: "The best part about Java Burn is that it's tasteless and doesn't affect the flavor of my coffee. Plus, it's all natural!",
         author: "Michael Brown",
-        image: "https://via.placeholder.com/100"
+        image: "./img/customers/MichaelBrown.jpg"
+    },
+    {
+        text: "I've tried many weight loss supplements, but Java Burn is the only one that actually worked for me. Highly recommend!",
+        author: "Alice Johnson",
+        image: "./img/customers/AliceJohnson.jpg"
+    },
+    {
+        text: "I love how easy it is to use Java Burn with my morning coffee. It gives me energy and keeps me feeling full all day.",
+        author: "John Smith",
+        image: "./img/customers/JohnSmith.jpg"
     },
     {
         text: "Java Burn not only helps with weight loss, but it also gives me a steady boost of energy throughout the day.",
         author: "Sarah Wilson",
-        image: "https://via.placeholder.com/100"
+        image: "./img/customers/SarahWilson.jpg"
     }
 ];
 
